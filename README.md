@@ -122,4 +122,4 @@ We intend to express our gratitude by presenting a modest token of appreciation 
 
 ## <a name="License">©️ License</a>
 
-The project is licensed under the [MIT License](https://github.com/dakshsinghrathore/ISRO-web?tab=MIT-1-ov-file#readme).
+The project is licensed under the [MIT License](https://github.com/ketan270/ISRO-web?tab=MIT-1-ov-file#readme).
