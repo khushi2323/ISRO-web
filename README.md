@@ -100,7 +100,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 
 
 <div>
-  <a href="https://github.com/Ketan2120/ISRO-web/graphs/contributors">
+  <a href="https://github.com/Ketan270/ISRO-web/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=Ketan2120/ISRO-web" />
   </a>
 </div>
